@@ -55,6 +55,17 @@ The breast tumor prediction project aimed to develop a machine learning-based sy
 
 The user interface, designed to be intuitive and user-friendly, provided a seamless experience for users to input tumor data and receive prediction results. Usability testing confirmed that the interface met the needs of users and facilitated efficient interaction with the system.
 
+## Screenshots
+
+
+![Screenshot 1 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/1.png)
+
+![Screenshot 2 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/2.png)
+
+![Screenshot 2 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/3.png)
+
+![Screenshot 2 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/4.png)
+
 ## Future Directions
 
 Looking ahead, future directions for the project include:
