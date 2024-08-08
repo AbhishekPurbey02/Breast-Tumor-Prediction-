@@ -60,11 +60,11 @@ The user interface, designed to be intuitive and user-friendly, provided a seaml
 
 ![Screenshot 1 ](https://github.com/AbhishekPurbey02/Breast-Tumor-Prediction-/blob/main/Static/1.png)
 
-![Screenshot 2 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/2.png)
+![Screenshot 2 ](https://github.com/AbhishekPurbey02/Breast-Tumor-Prediction-/blob/main/Static/2.png)
 
-![Screenshot 2 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/3.png)
+![Screenshot 2 ](https://github.com/AbhishekPurbey02/Breast-Tumor-Prediction-/blob/main/Static/3.png)
 
-![Screenshot 2 ](https://github.com/pallavicops/Breast-Cancer-detection/blob/main/static/4.png)
+![Screenshot 2 ](https://github.com/AbhishekPurbey02/Breast-Tumor-Prediction-/blob/main/Static/4.png)
 
 ## Future Directions
 
